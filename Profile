@@ -1,1 +1,1 @@
-web: app.py --reload --workers 2
+web: python app.py --reload --workers 2
